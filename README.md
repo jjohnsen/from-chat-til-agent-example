@@ -1,6 +1,6 @@
 # North Star AI – example repo
 
-An example repository that accompanies the article **"Fra chat til agent: Når GitHub Copilot får tilgang til systemene du jobber i"** (in Norwegian).
+An example repository that accompanies the article [**"Fra chat til agent: Når GitHub Copilot får tilgang til systemene du jobber i"**](https://www.linkedin.com/pulse/fra-chat-til-agent-n%C3%A5r-copilot-f%C3%A5r-tilgang-systemene-du-johnsen-etize/) (in Norwegian).
 
 It shows how instructions, skills, prompts, wiki guidelines and MCP configuration fit together when GitHub Copilot is used as an agent in Dynamics 365 / Power Platform development.
 
