@@ -1,0 +1,28 @@
+{
+	"servers": {
+		// Microsoft Learn MCP
+		"microsoftdocs/mcp": {
+			"type": "http",
+			"url": "https://learn.microsoft.com/api/mcp",
+			"gallery": "https://api.mcp.github.com",
+			"version": "1.0.0"			
+		},
+		// Azure DevOps MCP
+		"azure-devops": {
+			"url": "https://mcp.dev.azure.com/azure-devops-organization",
+			"type": "http"
+		},
+		// Official Dataverse MCP
+		//
+		// "dataverse": {
+		// 	"url": "https://xxx.crm.dynamics.com/api/mcp",
+		// 	"type": "http"
+		// },
+		// Dataverse Development MCP - https://www.npmjs.com/package/jaj-dataverse-dev-mcp
+		"dataverse-dev": {
+			"command": "npx",
+			"args": [ "-y", "jaj-dataverse-dev-mcp" ]
+		}
+	},
+	"inputs": []
+}

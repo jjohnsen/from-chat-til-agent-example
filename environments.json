@@ -1,0 +1,16 @@
+{
+  "environments": {
+    "dev": {
+      "url": "https://YOUR-DEV.crm.dynamics.com",
+      "allowWrite": true
+    },
+    "test": {
+      "url": "https://YOUR-TEST.crm.dynamics.com",
+      "allowWrite": false
+    },
+    "prod": {
+      "url": "https://YOUR-PROD.crm.dynamics.com",
+      "allowWrite": false
+    }
+  }
+}
